@@ -1,0 +1,27 @@
+.active{
+    background-color: darkred;
+    color: white !important;
+    border-radius: 20px;
+    transform: translateY(-10px);
+    transition: all 900ms ease-in-out;
+}
+.re{
+    font-weight: 900;
+    font-size: 65px !important;
+}
+.nav-link{
+font-weight: 600;
+}
+
+img{
+    width: 700px!important;
+    height: 500px!important;
+}
+i{
+   width: 100px!important;
+   height: 90px!important; 
+   font-size: 100px !important;
+   font-weight: 900;
+   color: rgb(18, 90, 223);
+
+}
